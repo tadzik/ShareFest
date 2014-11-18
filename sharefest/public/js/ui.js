@@ -326,7 +326,7 @@ function fadeHow() {
         fadeText('Once you add a file on the left box, ' +
             'Sharefest creates a dynamic url that is used to get the file directly from your browser. ' +
             'Your browser will serve the file temporarily, as long as you keep the tab open. ' +
-            'When users enter this unique url (<i>room</i>), they will start recieving pieces of the file and help others. Like BitTorrent, but in HTML5, using <a target="_blank" href="http://webrtc.org">WebRTC</a> Data Channels which make the bits fly P2P, serverless.<br><br>' +
+            'When users enter this unique url (<i>room</i>), they will start receiving pieces of the file and help others. Like BitTorrent, but in HTML5, using <a target="_blank" href="http://webrtc.org">WebRTC</a> Data Channels which make the bits fly P2P, serverless.<br><br>' +
 //            'The users (peers) automagically ask each other for the remaining pieces until the file has been fully downloaded. ' +
 //            'Peers will start helping each other, and becoming less reliant on the seeder. This is the nature of Sharefest\'s <i>mesh network</i>. ' +
 //            'Behind the scenes, discovery, signaling and handshaking must be done.' +
